@@ -1,0 +1,4 @@
+# Brick-breaker
+Side project that I programmed in my junior year of high school.
+<br/><br/>
+This game takes the classic brick breaker gameplay and adds a modern twist to it. Players control a paddle at the bottom of the screen and use it to hit a ball against bricks at the top of the screen. The goal is to break as many bricks as possible before the ball hits the bottom of the screen. The game features vibrant graphics and smooth animations, providing an immersive gaming experience. The game also includes power-ups that can be unlocked as the player progresses through the levels, adding an extra layer of strategy to the gameplay. The game is designed to be easy to learn but challenging to master, making it perfect for players of all skill levels. The game code is available on Github, and anyone can use it to create their own brick breaker game.
